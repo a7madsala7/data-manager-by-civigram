@@ -10,3 +10,5 @@
 - once you have chosen  the file with the desired line you click on autocad button then it gets the information about the points on the line then process the data mixed from the cad and the csv and gets the points output ready for other usage.
 **notice that**
     this app works for windows devices only
+    this is the first version of the program and expected to have more changes and editions
+  i hope this can help anyone and thanks
